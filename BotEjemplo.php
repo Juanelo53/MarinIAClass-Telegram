@@ -4,7 +4,7 @@
 require 'MarinIAClass.php';
 
 // Obtiene el Token del bot
-$MarinIA = new MarinIA('5891107797:AAEGPCLSDdS4KtONRWWx0uOn3z4ljJasMr4');
+$MarinIA = new MarinIA('TU BOT TOKEN AQUI');
 
 // Obtiene las variables
 $update = $MarinIA->getUpdates();
